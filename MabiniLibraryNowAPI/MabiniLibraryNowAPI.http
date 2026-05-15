@@ -1,0 +1,6 @@
+@MabiniLibraryNowAPI_HostAddress = http://localhost:5134
+
+GET {{MabiniLibraryNowAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
